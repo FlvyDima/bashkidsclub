@@ -1,2 +1,0 @@
-# bashkidsclub
-Bash kids club
